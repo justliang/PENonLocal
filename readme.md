@@ -6,9 +6,7 @@
 
 #### **Table of Contents**
 
-[toc]
-
-1. Introduction
+1. [Introduction](#### 1. Introduction)
 2. Citation
 3. Installation
 4. Data generation
