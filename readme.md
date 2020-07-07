@@ -78,7 +78,7 @@ C. Indoor and outdoor real-world datasets are provided in
 
 - run the main test file
 
-  `pythn ./testing/main.py`
+  `python ./testing/main.py`
 
 - the test can be conducted on simulated Middlebury dataset, indoor and outdoor real-world dataset by selecting different functions in the `./testing/main.py`
 
