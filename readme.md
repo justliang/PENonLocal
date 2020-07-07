@@ -6,13 +6,13 @@
 
 #### **Table of Contents**
 
-1. [Introduction](####1.-introduction)
+1. [Introduction](#1-introduction)
 2. [Citation](#2-citation)
-3. [Installation](####-3.-installation)
-4. [Data generation](####-4.-data-generation)
-5. [Training](####-5.-training)
-6. [Testing](####-6.-testing)
-7. [Results](####-7.-results)
+3. [Installation](#3-installation)
+4. [Data generation](#4-data-generation)
+5. [Training](#5-training)
+6. [Testing](#6-testing)
+7. [Results](#7-results)
 
 ----
 
