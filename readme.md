@@ -6,6 +6,8 @@
 
 #### **Table of Contents**
 
+[toc]
+
 1. Introduction
 2. Citation
 3. Installation
