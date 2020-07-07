@@ -12,6 +12,7 @@
 4. Data generation
 5. Training
 6. Testing
+7. Results
 
 ----
 
@@ -82,9 +83,18 @@ C. Indoor and outdoor real-world datasets are provided in
 
 - the test can be conducted on simulated Middlebury dataset, indoor and outdoor real-world dataset by selecting different functions in the `./testing/main.py`
 
+#### 7. Results
 
+We provide some of the visualization results here.
 
+- comparisons on Middlebury dataset
+![res_s](https://github.com/JiayongO-O/Photon-Efficient-3D-Imaging-with-A-Non-Local-Neural-Network/blob/master/data_gener/res_s.png)
 
+- comparisons on outdoor real-world scenes
+![res_outrw](https://github.com/JiayongO-O/Photon-Efficient-3D-Imaging-with-A-Non-Local-Neural-Network/blob/master/data_gener/res_outrw.png)
+
+- comparisons on indoor real-world scenes
+![res_inrw](https://github.com/JiayongO-O/Photon-Efficient-3D-Imaging-with-A-Non-Local-Neural-Network/blob/master/data_gener/res_inrw.png)
 
 
 
