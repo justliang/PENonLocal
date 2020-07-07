@@ -7,18 +7,19 @@
 #### **Table of Contents**
 
 1. [Introduction](####-1.-Introduction)
-2. Citation
-3. Installation
-4. Data generation
-5. Training
-6. Testing
-7. Results
+2. [Citation](####-2.-citation)
+3. [Installation](####-3.-installation)
+4. [Data generation](####-4.-data-generation)
+5. [Training](####-5.-training)
+6. [Testing](####-6.-testing)
+7. [Results](####-7.-results)
 
 ----
 
 #### 1. Introduction
 
 Photon-efficient imaging has enabled a number of applications relying on single-photon sensors that can capture a 3D image with as few as one photon per pixel. In practice, however, measurements of low photon counts are often mixed with heavy background noise, which poses a great challenge for existing computational reconstruction algorithms. In this paper, we first analyze the long-range correlations in both spatial and temporal dimensions of the measurements. Then we propose a non-local neural network for depth reconstruction by exploiting the long-range correlations. The proposed network achieves decent reconstruction fidelity even under photon counts (and signal-to-background ratio, SBR) as low as 1 photon/pixel (and 0.01), which significantly surpasses the state-of-the-art. Moreover, our non-local network trained on simulated data can be well generalized to different real-world imaging systems, which could extend the application scope of photon-efficient imaging in challenging scenarios with a strict limit on optical flux.![framework](https://github.com/JiayongO-O/Photon-Efficient-3D-Imaging-with-A-Non-Local-Neural-Network/blob/master/data_gener/framework-1.png)
+
 #### 2. Citation
 
 If you find the code useful in your research, please consider citing:
