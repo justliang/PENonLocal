@@ -1,4 +1,6 @@
 # The model function
+# Compared with our previous version, we provide a new model which has better performance over previous one.
+# We modified the ddfn sub-blocks and use an advanced upsampling operator.
 import torch
 import torch.nn as nn
 import torch.nn.init as init
