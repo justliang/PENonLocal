@@ -3,7 +3,7 @@ import torch
 from tqdm import tqdm
 from pro.Loss import criterion_KL,criterion_TV,criterion_L2
 
-lsmx = torch.nn.LogSoftmax(dim=2)
+lsmx = torch.nn.LogSoftmax(dim=1)
 dtype = torch.cuda.FloatTensor
 
 def validate(model, val_loader, n_iter, val_loss, params, logWriter):
